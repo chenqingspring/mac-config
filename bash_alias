@@ -1,0 +1,3 @@
+alias ds="cd ~/work/casa-consumer-search/"
+alias m="cd ~/work/m-site"
+alias go="nohup python ~/tools/goagent/local/proxy.py &"
