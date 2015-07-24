@@ -4,3 +4,9 @@
     co = checkout
     br = branch
     pr = pull --rebase
+    l = log --graph --pretty=format:'%C(yellow)%h%C(cyan)%d%Creset %s %C(white)- %an, %ar%Creset'
+[user]
+	name = CHEN Qing
+	email = qing.chen@rea-group.com
+[push]
+	default = simple
